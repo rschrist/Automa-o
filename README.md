@@ -1,2 +1,2 @@
-# Automa-o
-PRojeto de automação granja
+# Server
+Projeto de aula chat
